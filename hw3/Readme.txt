@@ -1,0 +1,1 @@
+Simply run the code by typing "python <filename>.py"
